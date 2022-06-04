@@ -53,5 +53,5 @@ El presente proyecto es un "Sistema de Presupuesto Familiar" para administrar lo
 
 ## Integrantes
 * Molina Yupanqui, Flor Giannina
-* Quispe Vega, Anthony
+* Quispe Vega, Anthony Yair
 * Romero Ramón, Mery Roxana
