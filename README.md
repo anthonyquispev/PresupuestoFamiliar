@@ -4,7 +4,6 @@
 |:--:|:--:|
 |[![License](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)|[![Lenguaje](https://img.shields.io/badge/Language-C++-green.svg)](https://en.cppreference.com)
 
-
 Ciclo III 2019 - UNMSM - Proyecto final del curso "Programación y Fundamentos de Algorítmica"
 
 ## Descripción
@@ -30,28 +29,28 @@ El presente proyecto es un "Sistema de Gestión del Presupuesto Familiar" para a
   <img src="https://github.com/AnThonYairQuispe/PresupuestoFamiliar/blob/main/capturas/1. Ingresar datos.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/AnThonYairQuispe/PresupuestoFamiliar/blob/main/capturas/2. Ingresos y Gastos.PNG" width="400px" heigh="400px">
+  <img src="https://github.com/AnThonYairQuispe/PresupuestoFamiliar/blob/main/capturas/2. Ingresos y Gastos.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/AnThonYairQuispe/PresupuestoFamiliar/blob/main/capturas/3. Tabla Total.PNG" width="400px" heigh="400px">
+  <img src="https://github.com/AnThonYairQuispe/PresupuestoFamiliar/blob/main/capturas/3. Tabla Total.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/AnThonYairQuispe/PresupuestoFamiliar/blob/main/capturas/4. Registros de una persona.PNG" width="400px" heigh="400px">
+  <img src="https://github.com/AnThonYairQuispe/PresupuestoFamiliar/blob/main/capturas/4. Registros de una persona.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/AnThonYairQuispe/PresupuestoFamiliar/blob/main/capturas/5. Registros ordenados por cantidad.PNG" width="400px" heigh="400px">
+  <img src="https://github.com/AnThonYairQuispe/PresupuestoFamiliar/blob/main/capturas/5. Registros ordenados por cantidad.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/AnThonYairQuispe/PresupuestoFamiliar/blob/main/capturas/6. Registros de una fecha.PNG" width="400px" heigh="400px">
+  <img src="https://github.com/AnThonYairQuispe/PresupuestoFamiliar/blob/main/capturas/6. Registros de una fecha.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/AnThonYairQuispe/PresupuestoFamiliar/blob/main/capturas/7. Comparar Fechas 01.PNG" width="400px" heigh="400px">
+  <img src="https://github.com/AnThonYairQuispe/PresupuestoFamiliar/blob/main/capturas/7. Comparar Fechas 01.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/AnThonYairQuispe/PresupuestoFamiliar/blob/main/capturas/7. Comparar Fechas 02.PNG" width="400px" heigh="400px">
+  <img src="https://github.com/AnThonYairQuispe/PresupuestoFamiliar/blob/main/capturas/7. Comparar Fechas 02.PNG">
 </p>
 <p align="center">
-  <img src="https://github.com/AnThonYairQuispe/PresupuestoFamiliar/blob/main/capturas/7. Comparar Fechas 03.PNG" width="400px" heigh="400px">
+  <img src="https://github.com/AnThonYairQuispe/PresupuestoFamiliar/blob/main/capturas/7. Comparar Fechas 03.PNG">
 </p>
 
 
