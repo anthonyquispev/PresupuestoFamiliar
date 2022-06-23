@@ -4,7 +4,7 @@
 
 |Licencia|Lenguaje|Ciclo|Curso|
 |:--:|:--:|:--:|:--:|
-|[![Licencia](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)|[![Lenguaje](https://img.shields.io/badge/Language-C++-informational.svg)](https://en.cppreference.com)|![Ciclo](https://img.shields.io/badge/III-2019-green.svg)|![Estructura de Datos](https://img.shields.io/badge/Programación_y_Fundamentos_de_Algorítmica-blueviolet.svg)
+|[![Licencia](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)|[![Lenguaje](https://img.shields.io/badge/Language-C++-informational.svg)](https://en.cppreference.com)|![Ciclo](https://img.shields.io/badge/III-2019-green.svg)|![Programación y Fundamentos de Algorítmica](https://img.shields.io/badge/Programación_y_Fundamentos_de_Algorítmica-blueviolet.svg)
 
 </div>
 
